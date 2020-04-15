@@ -1,0 +1,41 @@
+{
+  "affixation": [
+    "angel"
+  ],
+  "conversion": [
+    "motel"
+  ],
+  "composition": [
+    "to"
+  ],
+  "shortening": [
+    "an"
+  ],
+  "blending": [],
+  "sound_interchange": [],
+  "sound_imitation": [],
+  "back_formation": [],
+  "acronyming": [],
+  "commits": [
+    {
+      "word": "angel",
+      "category": "affixation",
+      "song_name": "Sanctuary"
+    },
+    {
+      "word": "motel",
+      "category": "conversion",
+      "song_name": "Sanctuary"
+    },
+    {
+      "word": "to",
+      "category": "composition",
+      "song_name": "Sanctuary"
+    },
+    {
+      "word": "an",
+      "category": "shortening",
+      "song_name": "Sanctuary"
+    }
+  ]
+}
